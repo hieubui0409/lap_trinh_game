@@ -1,0 +1,22 @@
+# Unity folders
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+UserSettings/
+.vs/
+
+# Build
+[Bb]uild/
+[Bb]uilds/
+[Oo]bj/
+
+# IDE / Project files
+*.csproj
+*.sln
+*.unityproj
+*.user
+*.userprefs
+
+# Misc
+UpgradeLog.htm
+git
