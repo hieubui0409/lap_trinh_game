@@ -1,18 +1,22 @@
-﻿[Ll]ibrary/
+# Unity folders
+[Ll]ibrary/
 [Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
 [Ll]ogs/
 UserSettings/
+.vs/
 
+# Build
+[Bb]uild/
+[Bb]uilds/
+[Oo]bj/
+
+# IDE / Project files
 *.csproj
 *.sln
-*.slnx
-*.user
 *.unityproj
-*.pidb
-*.booproj
-*.svd
-.vscode/
-.DS_Store
+*.user
+*.userprefs
+
+# Misc
+UpgradeLog.htm
+git
